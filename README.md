@@ -1,2 +1,2 @@
 # Quiz
-an application that has a quiz and has a scorekeeper
+an application that has a quiz and a scorekeeper
